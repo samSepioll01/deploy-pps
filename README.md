@@ -5,9 +5,9 @@
 
 ## 📘 Introducción
 
-Este proyecto forma parte de la asignatura **“Puesta en Producción Segura”**, perteneciente al *Curso de Especialización en Ciberseguridad en las Tecnologías de la Información (IES Rafael Alberti, Cádiz)*.
+Proyecto **“Puesta en Producción Segura”**.
 
-El trabajo consiste en el **despliegue seguro de arquitecturas web con Docker**, mediante la implementación de distintas **APIs REST básicas** usando varios frameworks.  
+Consiste en el **despliegue seguro de arquitecturas web con Docker**, mediante la implementación de distintas **APIs REST básicas** usando varios frameworks.  
 En este repositorio se incluyen las APIs correspondientes a los frameworks:
 
 - **Laravel (PHP 8.3)**  
@@ -159,11 +159,6 @@ curl -X DELETE http://localhost:8001/api/items/5
       docker-compose up laravel-api
       docker-compose up dotnet-api
 ```
-
-### 👨‍💻 Autores
-
-Asignatura: Puesta en Producción Segura
-IES Rafael Alberti (Cádiz) — Curso 2025
 
 API Laravel — desarrollada en PHP (Laravel 11)
 
